@@ -57,12 +57,16 @@
     <p>Web Developer &amp; Designer</p>
     <div class="links">
       <a href="https://github.com/BSarpong-web" target="_blank">GitHub</a>
-      <a href="mailto:your.email@example.com">Email</a>
+      <a href="mailto:bensarpong@gmail.com">Email</a>
       <!-- Add more links as needed -->
     </div>
   </header>
   <main>
+<!-- Home Content -->
     <section>
+      <h2>Welcome!</h2>
+      <p>Hi, I'm BSarpong-web. Welcome to my portfolio website where I showcase my projects and skills.</p>
+    </section>
       <h2>About Me</h2>
       <p>
         I am a passionate an IT student and follower of Jesus Christ, with a passion for ethical technology, networking of computers and other networking devices (cabling and setups), configuring devices, and installation of programs and updates; experienced in team collaboration, conflict resolution, and project management, honed through group projects and leadership roles. My motto has always been, be part of the solution but not the problem and whatsoever ye do, do it heartily. With experience in building modern, responsive, reliable, and resilient networks. I love learning new technologies and tackling challenging problems. Practiced in incorporating principles of compassion, integrity, and servant leadership into professional and personal decisions.
