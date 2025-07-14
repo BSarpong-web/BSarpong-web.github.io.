@@ -53,7 +53,7 @@
 </head>
 <body>
   <header>
-    <h1>Your Name</h1>
+    <h1>Benjamin Sarpong</h1>
     <p>Web Developer &amp; Designer</p>
     <div class="links">
       <a href="https://github.com/BSarpong-web" target="_blank">GitHub</a>
@@ -65,15 +65,15 @@
     <section>
       <h2>About Me</h2>
       <p>
-        Write a short paragraph introducing yourself, your skills, and your interests.
+        I am a passionate an IT student and follower of Jesus Christ, with a passion for ethical technology, networking of computers and other networking devices (cabling and setups), configuring devices, and installation of programs and updates; experienced in team collaboration, conflict resolution, and project management, honed through group projects and leadership roles. My motto has always been, be part of the solution but not the problem and whatsoever ye do, do it heartily. With experience in building modern, responsive, reliable, and resilient networks. I love learning new technologies and tackling challenging problems. Practiced in incorporating principles of compassion, integrity, and servant leadership into professional and personal decisions.
       </p>
     </section>
     <section class="projects">
       <h2>Projects</h2>
       <div class="project">
-        <h3>Project One</h3>
+        <h3>My Awesome Project</h3>
         <p>
-          Brief description of your first project.
+          Assisted in mounting a radio transmitter, cabling, and networked an office complex. Collaborated with the team to configure and install network devices, implement features, conducted user testing, and ensured compliance with privacy regulations. 	Reduced data and information loss by 38% through organizational skills and attention to detail. Safeguarded confidential files and information. Improved item tracking by 15% through computer coding and registration. Conducted Microsoft Office suite training for timely report submissions.
           <br>
           <a href="https://github.com/BSarpong-web/project-one" target="_blank">View on GitHub</a>
         </p>
@@ -90,7 +90,7 @@
     </section>
   </main>
   <footer>
-    &copy; 2025 Your Name. Powered by GitHub Pages.
+    &copy; 2025 Benjamin Sarpong. Powered by GitHub Pages.
   </footer>
 </body>
 </html>
