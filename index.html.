@@ -174,14 +174,6 @@ This growth has shaped my professional path by aligning my technical skills with
           <a href="https://github.com/BSarpong-web/project-one" target="_blank">View on GitHub</a>
         </p>
       </div>
-      <div class="project">
-        <h3>Project Two</h3>
-        <p>
-          Brief description of your second project.
-          <br>
-          <a href="https://github.com/BSarpong-web/project-two" target="_blank">View on GitHub</a>
-        </p>
-      </div>
       <!-- Add more projects as needed -->
     </section>
   </main>
