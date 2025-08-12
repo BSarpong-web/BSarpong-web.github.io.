@@ -55,7 +55,99 @@
   <header>
     <h1>Benjamin Sarpong</h1>
     <p>Web Developer &amp; Designer</p>
-    <div class="links">
+    <div class="tabs">
+ <button class="tablinks" onclick="openTab(event, 'Home')">Home</button>
+  <button class="tablinks" onclick="openTab(event, 'Profile')">Profile</button>
+  <button class="tablinks" onclick="openTab(event, 'Settings')">Settings</button>
+</div>
+<div id="Home" class="tabcontent">
+  <h3>Home</h3>
+  <p>Welcome to the home tab!</p>
+<!-- Content below the Home tab -->
+  <div class="below-tab">
+    <h4>Home Details</h4>
+    <p>Hi, I'm BSarpong-web. Welcome to my portfolio website where I showcase my projects and skills.</p>
+</div>
+<div id="Profile" class="tabcontent" style="display:none;">
+  <h3>Profile</h3>
+  <p>Integrity: Integrity is the cornerstone of my spiritual and professional journey, ensuring that my actions align with my values and foster trust. In IT, integrity manifests as transparency in decision-making, safeguarding data privacy, and adhering to ethical standards, such as during the capstone project, where I ensure inclusive design and compliance with regulations. Spiritually, it reflects my commitment to honesty and accountability, guided by my patriarchal blessing, which emphasizes living true to my divine potential. This principle drives me to make decisions that prioritize societal good and build trust with colleagues and stakeholders. Patience: Patience is a quiet strength that allows me to navigate challenges with grace, trusting in divine timing. In IT, patience is critical when troubleshooting complex issues, like the network outage I resolved, where methodical analysis restored connectivity without rushing to hasty solutions. Compassion: Compassion, the heart’s outreach, drives me to connect with others through empathy and kindness, reflecting universal love. In IT, this translates to designing inclusive technologies, such as the capstone project’s accessible educational app, prioritizing user needs. This principle ensures my professional efforts uplift others, aligning with my goal to be a servant leader.</p>
+</div>
+<div id="Professional Growth Portfolio" class="tabcontent" style="display:none;">
+  <h3>Professional Growth Portfolio</h3>
+  <p>Introduction
+Welcome to my professional growth portfolio! I am a senior at Ensign College, pursuing an Information Technology degree with a passion for integrating ethical and spiritual principles into technology solutions. As a follower of Jesus Christ, I strive to embody compassion, integrity, and servant leadership. This portfolio showcases my journey toward becoming an ethical IT leader, highlighting key projects, skills, and reflections that align with my goals of developing inclusive technology, leading impactful teams, and fostering spiritual growth.
+Résumé
+Education
+	Ensign College, Associate of Applied Science in Information Technology, Expected 2025
+o	Relevant Coursework: Networking, Ethical IT Practices, Capstone Project
+Professional Experience
+	IT Intern, Spectrum Internet Services, 2023
+o	Assisted in mounting a radio transmitter, cabling, and networking an office complex.
+o	Collaborated on device configuration, user testing, and ensured privacy compliance.
+	Computer Administrator/Front Desk Technician, AngloGold Ashanti Obuasi Mine, 2021–2022
+o	Reduced data loss by 38% through organizational skills and coding for item tracking.
+o	Conducted Microsoft Office training, improving report submission efficiency.
+Skills
+	Technical: Networking, device configuration, coding, UX design
+	Leadership: Team collaboration, conflict resolution, project management
+	Ethical: Applying the PLUS model for inclusive, transparent IT solutions
+My initial S.M.A.R.T. goals focused on ethical decision-making (Goal 1) and leadership of the capstone project (Goal 2). The portfolio reflects strong alignment, with adjustments enhancing its impact:
+
+
+	Goal 1: Ethical Decision-Making:
+	Initial Goal: Develop a framework for ethical IT decisions, applying the ACM Code of Ethics.
+	Achievement: The AngloGold dilemma response (reporting misuse, implementing controls) and proactive training program proposal demonstrate integrity. The capstone project’s MFA and encryption align with privacy regulations, such as FERPA.
+	Adjustment: Emphasized proactive ethics (training program) to prevent dilemmas, reflecting compassion and patience.
+	Goal 2: Capstone Leadership:
+	Initial Goal: Lead a team to develop a networked office prototype, prioritizing accessibility.
+	Achievement: Delivered a prototype with redundant paths (OSPF), VLANs, and accessibility features (voice navigation, adjustable fonts), embodying servant leadership.
+	Adjustment: Enhanced user experience with a simplified dashboard and tooltips, prioritizing non-technical users.
+These adjustments strengthened the portfolio’s focus on inclusivity and ethical leadership, aligning with my spiritual principles.
+.</p>
+</div>
+<div id="Projects" class="tabcontent" style="display:none;">
+  <h3>My Awesome Projects</h3>
+  <p>1.Assisted in mounting a radio transmitter, cabling, and networked an office complex. Collaborated with the team to configure and install network devices, implement features, conducted user testing, and ensured compliance with privacy regulations. 	Reduced data and information loss by 38% through organizational skills and attention to detail. Safeguarded confidential files and information. Improved item tracking by 15% through computer coding and registration. Conducted Microsoft Office suite training for timely report submissions.
+2. Networked Office Prototype (Capstone Project)
+Project Overview
+The capstone project involves leading a team of four to develop a networked office prototype for IT students at Ensign College, designed for research and studying. The prototype features networked computers, secure Wi-Fi, and accessibility enhancements, all built using skills in networking, device configuration, and user-centered design. This project is meaningful to me because it reflects my goal of creating inclusive, ethical technology solutions guided by compassion and integrity.
+
+Refined Project Plan
+To address these challenges and ethical concerns, I propose the following refinements:
+	Functionality Enhancement: Redundant Network Paths
+	Implement a dual-router setup with automatic failover to ensure uninterrupted access during outages. This uses OSPF (Open Shortest Path First) for dynamic routing.
+	Impact: Enhances reliability, reflecting patience in ensuring robust solutions.
+
+	User Experience Improvement: Simplified Interface
+	Redesign the resource access portal using HTML, CSS, and JavaScript to create a user-friendly dashboard with clear navigation and tooltips.
+	Impact: Improves inclusivity, aligning with compassion by catering to non-technical users.
+	Scalability Upgrade: VLAN Configuration
+	Implement VLANs (Virtual Local Area Networks) to segment traffic and support up to 50 users, with QoS (Quality of Service) to prioritize critical applications.
+	Impact: Ensures future growth, reflecting stewardship of resources.
+	Security Enhancement: MFA and Encryption
+	Add MFA for admin access and AES-256 encryption for stored data, with user consent forms for data collection.
+	Impact: Strengthens privacy, aligning with integrity and regulatory compliance.
+	Accessibility Features: Enhanced Inclusivity
+	Integrate adjustable font sizes, high-contrast themes, and voice navigation using JavaScript libraries like SpeechSynthesis.
+	Impact: Promotes equitable access, embodying compassion for all users.
+.</p>
+</div>
+<div id="Spiritual Growth Portfolio" class="tabcontent" style="display:none;">
+  <h3>Spiritual Growth Portfolio</h3>
+  <p>Introduction
+This Spiritual Progression Portfolio encapsulates my journey of integrating faith and professional growth as an IT student at Ensign College. Rooted in Christlike attributes, integrity, patience, and compassion, my spiritual and professional paths intertwine to form a cohesive identity as an ethical IT leader. This portfolio reflects my growth, aligns with my patriarchal blessing, and outlines actionable goals for continued development as a trusted disciple in my field.
+Spiritual Growth Reflection
+Throughout this course, my spiritual growth has been shaped by intentional practices and scriptural guidance, deepening my ability to navigate professional challenges with faith. Key reflections include:
+	Patriarchal Blessing: Weekly engagement with my patriarchal blessing has anchored my decisions, urging me to live true to my divine potential. It guided my response to the AngloGold Ashanti ethical dilemma, where I prioritized integrity by reporting misuse of admin privileges.
+	Scriptures: Psalm 119:105 (“Your word is a lamp for my feet”) illuminated my ethical decision-making, ensuring clarity in complex IT scenarios. Proverbs 3:5-6 fostered patience in troubleshooting, such as resolving network outages methodically. Colossians 3:23-24 transformed my work into an act of service, evident in my capstone project’s focus on accessibility.
+	Spiritual Practices: Daily prayer and Sabbath reflection grounded my leadership. Reflecting on team conflicts during the capstone project, I realized that patience allowed me to mediate effectively, fostering collaboration. These practices reinforced my commitment to compassion, as seen in my tech literacy workshop for marginalized communities.
+This growth has shaped my professional path by aligning my technical skills with spiritual principles, ensuring my work promotes trust, inclusivity, and societal good.
+.</p>
+</div>
+<div id="Settings" class="tabcontent" style="display:none;">
+  <h3>Settings</h3>
+  <p>Adjust your settings here.</p>
+</div>
       <a href="https://github.com/BSarpong-web" target="_blank">GitHub</a>
       <a href="mailto:bensarpong@gmail.com">Email</a>
       <!-- Add more links as needed -->
